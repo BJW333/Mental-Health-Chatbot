@@ -1,0 +1,105 @@
+absl - INFO - SubwordTextEncoder build: trying min_token_count 328
+absl - INFO - SubwordTextEncoder build: trying min_token_count 164
+absl - INFO - SubwordTextEncoder build: trying min_token_count 82
+absl - INFO - SubwordTextEncoder build: trying min_token_count 41
+absl - INFO - SubwordTextEncoder build: trying min_token_count 20
+absl - INFO - SubwordTextEncoder build: trying min_token_count 10
+absl - INFO - SubwordTextEncoder build: trying min_token_count 5
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+absl - INFO - SubwordTextEncoder build: trying min_token_count 328
+absl - INFO - SubwordTextEncoder build: trying min_token_count 164
+absl - INFO - SubwordTextEncoder build: trying min_token_count 82
+absl - INFO - SubwordTextEncoder build: trying min_token_count 41
+absl - INFO - SubwordTextEncoder build: trying min_token_count 20
+absl - INFO - SubwordTextEncoder build: trying min_token_count 10
+absl - INFO - SubwordTextEncoder build: trying min_token_count 5
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+root - INFO - 2024-02-26 13:05:17, User Input: Hello, Bot Response: No biggie, Response Time: 7.201841, Reward: 1
+root - INFO - 2024-02-26 13:34:21, User Input: How are you, Bot Response: Im sorry to hear that How can we make it right, Response Time: 9.905387, Reward: None
+absl - INFO - SubwordTextEncoder build: trying min_token_count 146163
+absl - INFO - SubwordTextEncoder build: trying min_token_count 73081
+absl - INFO - SubwordTextEncoder build: trying min_token_count 36540
+absl - INFO - SubwordTextEncoder build: trying min_token_count 18270
+absl - INFO - SubwordTextEncoder build: trying min_token_count 9135
+absl - INFO - SubwordTextEncoder build: trying min_token_count 4567
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2283
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1141
+absl - INFO - SubwordTextEncoder build: trying min_token_count 570
+absl - INFO - SubwordTextEncoder build: trying min_token_count 285
+absl - INFO - SubwordTextEncoder build: trying min_token_count 142
+absl - INFO - SubwordTextEncoder build: trying min_token_count 146163
+absl - INFO - SubwordTextEncoder build: trying min_token_count 73081
+absl - INFO - SubwordTextEncoder build: trying min_token_count 36540
+absl - INFO - SubwordTextEncoder build: trying min_token_count 18270
+absl - INFO - SubwordTextEncoder build: trying min_token_count 9135
+absl - INFO - SubwordTextEncoder build: trying min_token_count 4567
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2283
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1141
+absl - INFO - SubwordTextEncoder build: trying min_token_count 570
+absl - INFO - SubwordTextEncoder build: trying min_token_count 285
+absl - INFO - SubwordTextEncoder build: trying min_token_count 142
+absl - INFO - SubwordTextEncoder build: trying min_token_count 71
+absl - INFO - SubwordTextEncoder build: trying min_token_count 106
+absl - INFO - SubwordTextEncoder build: trying min_token_count 88
+absl - INFO - SubwordTextEncoder build: trying min_token_count 97
+absl - INFO - SubwordTextEncoder build: trying min_token_count 101
+absl - INFO - SubwordTextEncoder build: trying min_token_count 328
+absl - INFO - SubwordTextEncoder build: trying min_token_count 164
+absl - INFO - SubwordTextEncoder build: trying min_token_count 82
+absl - INFO - SubwordTextEncoder build: trying min_token_count 41
+absl - INFO - SubwordTextEncoder build: trying min_token_count 20
+absl - INFO - SubwordTextEncoder build: trying min_token_count 10
+absl - INFO - SubwordTextEncoder build: trying min_token_count 5
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+absl - INFO - SubwordTextEncoder build: trying min_token_count 328
+absl - INFO - SubwordTextEncoder build: trying min_token_count 164
+absl - INFO - SubwordTextEncoder build: trying min_token_count 82
+absl - INFO - SubwordTextEncoder build: trying min_token_count 41
+absl - INFO - SubwordTextEncoder build: trying min_token_count 20
+absl - INFO - SubwordTextEncoder build: trying min_token_count 10
+absl - INFO - SubwordTextEncoder build: trying min_token_count 5
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+root - INFO - 2024-02-26 13:52:26, User Input: Hello, Bot Response: I see where youre coming from Lets resolve this, Response Time: 7.264309, Reward: 1
+absl - INFO - SubwordTextEncoder build: trying min_token_count 328
+absl - INFO - SubwordTextEncoder build: trying min_token_count 164
+absl - INFO - SubwordTextEncoder build: trying min_token_count 82
+absl - INFO - SubwordTextEncoder build: trying min_token_count 41
+absl - INFO - SubwordTextEncoder build: trying min_token_count 20
+absl - INFO - SubwordTextEncoder build: trying min_token_count 10
+absl - INFO - SubwordTextEncoder build: trying min_token_count 5
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+absl - INFO - SubwordTextEncoder build: trying min_token_count 328
+absl - INFO - SubwordTextEncoder build: trying min_token_count 164
+absl - INFO - SubwordTextEncoder build: trying min_token_count 82
+absl - INFO - SubwordTextEncoder build: trying min_token_count 41
+absl - INFO - SubwordTextEncoder build: trying min_token_count 20
+absl - INFO - SubwordTextEncoder build: trying min_token_count 10
+absl - INFO - SubwordTextEncoder build: trying min_token_count 5
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+root - INFO - 2024-02-26 14:01:12, User Input: Hello, Bot Response: I am doing good how about you, Response Time: 7.515119, Reward: 1
+root - INFO - 2024-02-26 14:01:32, User Input: Im good im feeling kinda stressed, Bot Response: Lets talk about why you are feeling that way, Response Time: 9.184334, Reward: 1
+root - INFO - 2024-02-26 14:01:53, User Input: I am not sleeping well, Bot Response: Im sorry Im here to help, Response Time: 8.592618, Reward: 1
+root - INFO - 2024-02-26 14:03:19, User Input: Goodbye, Bot Response: Im sorry Im not being helpful, Response Time: 6.931152, Reward: None
+root - INFO - 2024-02-26 14:03:51, User Input: See you later, Bot Response: What would you like to discuss in the future, Response Time: 8.501354, Reward: None
+absl - INFO - SubwordTextEncoder build: trying min_token_count 328
+absl - INFO - SubwordTextEncoder build: trying min_token_count 164
+absl - INFO - SubwordTextEncoder build: trying min_token_count 82
+absl - INFO - SubwordTextEncoder build: trying min_token_count 41
+absl - INFO - SubwordTextEncoder build: trying min_token_count 20
+absl - INFO - SubwordTextEncoder build: trying min_token_count 10
+absl - INFO - SubwordTextEncoder build: trying min_token_count 5
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+root - INFO - 2024-03-05 12:16:26, User Input: Hello, Bot Response: Im always here to provide information What are you curious about, Response Time: 6.833092, Reward: 1
+root - INFO - 2024-03-05 12:17:00, User Input: How are you, Bot Response: aenjoying have very good, Response Time: 27.616959, Reward: -1
+root - INFO - 2024-03-05 12:19:03, User Input: How are you, Bot Response: take found you go about how to know, Response Time: 6.124329, Reward: -1
+root - INFO - 2024-03-05 12:20:47, User Input: Im not sleeping well, Bot Response: I am doing good how about you, Response Time: 8.571671, Reward: -1
+root - INFO - 2024-03-05 12:33:03, User Input: I am not sleeping, Bot Response: See you soon Let me know if you trust the issue, Response Time: 9.51371, Reward: None
+root - INFO - 2024-03-05 12:33:24, User Input: Im not feeling good, Bot Response: I am doing good how about you, Response Time: 8.311471, Reward: -1
+root - INFO - 2024-03-05 12:37:24, User Input: im good, Bot Response: Not much whats up, Response Time: 6.672593, Reward: -1

@@ -1,0 +1,7 @@
+#uncomment out below line with suflle method if porblem arrise that makes training more random with sequences
+    #train_dataset = tf.data.Dataset.from_tensor_slices((input_sequences, target_sequences)).shuffle(len(input_sequences)).batch(32)
+
+
+
+    #suffle method not included in below line reduces randomness of training of sequences
+    train_dataset = tf.data.Dataset.from_tensor_slices((input_sequences, target_sequences)).batch(32)
