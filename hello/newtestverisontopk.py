@@ -23,7 +23,7 @@ os.system('clear')
 sentiment_analyzer = pipeline('sentiment-analysis', model='distilbert-base-uncased-finetuned-sst-2-english')
 os.system('clear')
 
-openai.api_key = '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'
+openai.api_key = 'api'
 
 class DataStore:
     def __init__(self, filepath):
