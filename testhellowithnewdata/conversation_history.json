@@ -1,0 +1,98 @@
+[
+    {
+        "user_input": "Hello",
+        "bot_response": "Im always here to provide information What are you curious about",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "Hello",
+        "bot_response": "Im always here to help Whats on your mind",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "Nothing much Just looking for someone to talk to\\",
+        "bot_response": "lets try to communicate and try to try to anyone and just try to try to bed",
+        "reward": null,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "Hello",
+        "bot_response": "Im always here and ready to chat What would you like to discuss",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "Hello",
+        "bot_response": "Im always here to provide information What are you curious about",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "Im not sleeping well",
+        "bot_response": "I understand why youd feel that way Lets talk",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "ok how can you help",
+        "bot_response": "Ok then How can I be of assistance to make you less stressed out",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "Im feeling very stressed its awful",
+        "bot_response": "Why are you feeling this way",
+        "reward": null,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "Goodbye thanks for helping me",
+        "bot_response": "to help you you with",
+        "reward": null,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "Hello",
+        "bot_response": "Goodbye Let me know if you need anything in the issue",
+        "reward": -1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "Hello",
+        "bot_response": "Im here to hear that How can I assist",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "Im struggling to focus right now",
+        "bot_response": "Im always here How can I assist you with",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "What are some helpful tips",
+        "bot_response": "What do you need tips in",
+        "reward": null,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "I cant sleep",
+        "bot_response": "Lets talk about why you are feeling that way",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "Im just having trouble calming down",
+        "bot_response": "Thats understandable take some deep breaths and relax y",
+        "reward": 1,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "Thanks for the help goodbye",
+        "bot_response": "Goodbye glad I could help",
+        "reward": 1,
+        "flagged_for_retraining": true
+    }
+]
