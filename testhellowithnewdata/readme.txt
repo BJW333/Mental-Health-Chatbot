@@ -9,4 +9,3 @@ Answers.txt is the outputs the bot may give out
 
 The model will auto save once trained
 
-sk-proj-YnDAbMBuAr35G3xrbXB8T3BlbkFJdrpbQhKWgMrWG0yJP0CV here is the api key for open ai
