@@ -1,7 +1,5 @@
-# JOSH
+# Mental Health AI Therapist
 This is a conversational mental health AI/assistant it is a work in progress 
-
-Josh stands for (just your ordinary selfless helper)
 
 mentalhealthchatbot.py still has yet to be intergrated with the ai part of the bot this allows the user to use his or her voice to talk to the bot
 
